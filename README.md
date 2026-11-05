@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [3925-concatenate-array-with-reverse](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
