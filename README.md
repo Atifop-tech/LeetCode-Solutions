@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Math
