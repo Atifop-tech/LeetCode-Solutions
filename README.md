@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3180-maximum-total-reward-using-operations-i) |
+| [3206-alternating-groups-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3206-alternating-groups-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0880-decoded-string-at-index](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0880-decoded-string-at-index) |
+## Sliding Window
+|  |
+| ------- |
+| [3206-alternating-groups-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3206-alternating-groups-i) |
 <!---LeetCode Topics End-->
