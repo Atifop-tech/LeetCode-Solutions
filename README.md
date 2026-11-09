@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1267-count-servers-that-communicate](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1598-crawler-log-folder](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1929-concatenation-of-array](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0880-decoded-string-at-index](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0880-decoded-string-at-index) |
+| [1598-crawler-log-folder](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2833-furthest-point-from-origin](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0880-decoded-string-at-index](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0880-decoded-string-at-index) |
+| [1598-crawler-log-folder](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 ## Sliding Window
 |  |
 | ------- |
