@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0377-combination-sum-iv](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0494-target-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0377-combination-sum-iv](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
