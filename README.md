@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3206-alternating-groups-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3206-alternating-groups-i) |
 | [3693-climbing-stairs-ii](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
+| [3701-compute-alternating-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## String
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [3701-compute-alternating-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Two Pointers
