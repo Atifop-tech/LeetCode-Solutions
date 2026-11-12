@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1267-count-servers-that-communicate](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1598-crawler-log-folder](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1929-concatenation-of-array](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -89,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Sorting
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2747-count-zero-request-servers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+## Binary Search
+|  |
+| ------- |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 <!---LeetCode Topics End-->
