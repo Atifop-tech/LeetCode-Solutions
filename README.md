@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0377-combination-sum-iv](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0454-4sum-ii](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0494-target-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1049-last-stone-weight-ii](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0454-4sum-ii](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2747-count-zero-request-servers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 ## Knapsack Problem
