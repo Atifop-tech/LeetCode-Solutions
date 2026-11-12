@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2747-count-zero-request-servers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
+| [2942-find-words-containing-character](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3206-alternating-groups-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3206-alternating-groups-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2833-furthest-point-from-origin](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2937-make-three-strings-equal](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2937-make-three-strings-equal) |
+| [2942-find-words-containing-character](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Graph Theory
 |  |
