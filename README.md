@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3908-valid-digit-number](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3908-valid-digit-number) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Breadth-First Search
 |  |
