@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0377-combination-sum-iv](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0377-combination-sum-iv](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0454-4sum-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0880-decoded-string-at-index](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0880-decoded-string-at-index) |
 | [1598-crawler-log-folder](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 ## Sliding Window
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [1267-count-servers-that-communicate](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Counting
@@ -166,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2833-furthest-point-from-origin](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
