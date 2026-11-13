@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2937-make-three-strings-equal](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Graph Theory
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3206-alternating-groups-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3206-alternating-groups-i) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Enumeration
+|  |
+| ------- |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 <!---LeetCode Topics End-->
