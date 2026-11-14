@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2942-find-words-containing-character](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3206-alternating-groups-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3180-maximum-total-reward-using-operations-i) |
 ## Stack
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2747-count-zero-request-servers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Knapsack Problem
 |  |
 | ------- |
