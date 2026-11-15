@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0494-target-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3693-climbing-stairs-ii](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Tree
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1267-count-servers-that-communicate](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1598-crawler-log-folder](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1817-finding-the-users-active-minutes](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1817-finding-the-users-active-minutes) |
 | [1929-concatenation-of-array](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
