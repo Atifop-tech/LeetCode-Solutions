@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2540-minimum-common-value](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2942-find-words-containing-character](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2540-minimum-common-value](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3983-subsequence-after-one-replacement](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3983-subsequence-after-one-replacement) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Sorting
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-finding-the-users-active-minutes](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1817-finding-the-users-active-minutes) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2540-minimum-common-value](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2747-count-zero-request-servers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Knapsack Problem
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2540-minimum-common-value](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Enumeration
 |  |
 | ------- |
