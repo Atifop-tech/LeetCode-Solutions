@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
