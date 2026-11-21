@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
+| [2923-find-champion-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2923-find-champion-i) |
 | [2942-find-words-containing-character](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [1267-count-servers-that-communicate](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [2923-find-champion-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2923-find-champion-i) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Counting
 |  |
