@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1267-count-servers-that-communicate](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3206-alternating-groups-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3206-alternating-groups-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3701-compute-alternating-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2937-make-three-strings-equal](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3983-subsequence-after-one-replacement](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3983-subsequence-after-one-replacement) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2747-count-zero-request-servers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Knapsack Problem
 |  |
 | ------- |
