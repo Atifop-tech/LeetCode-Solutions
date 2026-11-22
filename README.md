@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1598-crawler-log-folder](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2833-furthest-point-from-origin](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
