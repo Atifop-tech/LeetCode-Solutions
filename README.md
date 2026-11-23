@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1267-count-servers-that-communicate](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1598-crawler-log-folder](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1598-crawler-log-folder) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
@@ -250,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
