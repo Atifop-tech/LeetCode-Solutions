@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1267-count-servers-that-communicate](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## DP on Trees
 |  |
 | ------- |
