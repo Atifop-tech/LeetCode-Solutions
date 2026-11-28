@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2937-make-three-strings-equal](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2937-make-three-strings-equal) |
 | [2942-find-words-containing-character](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3983-subsequence-after-one-replacement](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3983-subsequence-after-one-replacement) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3992-rearrange-string-to-avoid-character-pair) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2747-count-zero-request-servers](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Atifop-tech/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Knapsack Problem
